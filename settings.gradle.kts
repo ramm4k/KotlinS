@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "KotlinS"
 include(":app")
-include(":HelloWorld")
+include(":hellow")
